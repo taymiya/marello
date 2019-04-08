@@ -1,5 +1,5 @@
-# Taymiya PDF Manager - Marello 2.0 and higher
-Our Ibnab team created a new taymiya project 'PDF Manager' for Oro Tech, create pdf with template inside Marello ,download or send by email , from grid or inside entity view 
+# Taymiya PDF Manager - marello 2.0 and higher
+Our Ibnab team created a new taymiya project 'PDF Manager' for Oro Tech, create pdf with template inside marello ,download or send by email , from grid or inside entity view 
 
 1. Create custom unlimited template and subtemplate for Pdf.
 2. Use Dynamic Entity Attributes inside template.
